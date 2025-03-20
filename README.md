@@ -1,4 +1,6 @@
-# Layer Edge Light Node
+git clone https://github.com/Layer-Edge/light-node.git
+cd light-node
+*# Layer Edge Light Node
 
 ## Introduction
 
